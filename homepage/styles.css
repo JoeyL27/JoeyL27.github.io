@@ -1,0 +1,11 @@
+.bg {
+    background-image: url(jingfong.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h1 {
+    font-family: 'Spectral', serif;
+}
